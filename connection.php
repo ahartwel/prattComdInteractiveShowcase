@@ -1,7 +1,7 @@
 <?php
 
 require_once("config.php");
-$connection = new MongoClient( "mongodb://ahartwel:pratt@ds055699.mongolab.com:55699/interactiveandmotion" );
+$connection = new MongoClient( "mongodb://<username>:<password>@ds055699.mongolab.com:55699/interactiveandmotion" );
 
 $dbName = "interactiveandmotion";
 
