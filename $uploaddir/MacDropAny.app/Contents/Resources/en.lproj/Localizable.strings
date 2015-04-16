@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WelToMDA</key>
+	<string>Welcome to MacDropAny</string>
+	<key>WelToMDAmess</key>
+	<string>MacDropAny is the easiest way to sync any folder on your Mac with the cloud.
+
+By using this software, you must agree to abide by the terms of the Zibity Software Licence.</string>
+	<key>View Licence</key>
+	<string>View Licence</string>
+	<key>Quit</key>
+	<string>Quit</string>
+	<key>I Accept</key>
+	<string>I Accept</string>
+	<key>Input Selection Error</key>
+	<string>MacDropAny: Input Selection Error</string>
+	<key>Input Selection Error Message</key>
+	<string>The item which you have tried to sync does not appear to be a folder. MacDropAny can only sync folders, not individual files.
+	
+In the next screen, please choose a folder to sync.</string>
+	<key>Choose folder cloud</key>
+	<string>Choose a folder to sync with the cloud:</string>
+	<key>Choose service</key>
+	<string>Choose the service with which you would like to sync the folder </string>
+	<key>MacDropAny: Syncing with iClouDrive</key>
+	<string>MacDropAny: Syncing with iClouDrive</string>
+	<key>Syncing with iClouDrive Message</key>
+	<string>By default, Apple doesn't provide you with any way to keep your own files in your iCloud account. iClouDrive, an app created by Zibity (the developer of MacDropAny), allows you to use your iCloud storage space in a way similar to other online storage providers.
+	
+To use iClouDrive with MacDropAny, you must have already downloaded and installed iClouDrive. It does not appear that you have done this yet.</string>
+	<key>Learn more about iClouDrive</key>
+	<string>Learn more about iClouDrive</string>
+	<key>Choose where in your </key>
+	<string>Choose where in your </string>
+	<key> you'd like the </key>
+	<string> you'd like the </string>
+	<key> folder to be located: You may choose the top folder of your </key>
+	<string> folder to be located:
+You may choose the top folder of your </string>
+	<key> folder if you wish.</key>
+	<string> folder if you wish.</string>
+	<key>Enter a name for the </key>
+	<string>Enter a name for the </string>
+	<key> copy of the folder </key>
+	<string> copy of the folder </string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Sync </key>
+	<string>Sync </string>
+	<key> with </key>
+	<string> with </string>
+	<key>MacDropAny: Folder Name Error</key>
+	<string>MacDropAny: Folder Name Error</string>
+	<key>A folder called </key>
+	<string>A folder called </string>
+	<key> already exists. Please try another name.</key>
+	<string> already exists. Please try another name.</string>
+	<key>Folder Sync Success</key>
+	<string>MacDropAny: Folder Sync Success</string>
+	<key>The folder </key>
+	<string>The folder </string>
+	<key> folder is now synced with </key>
+	<string> is now synced with </string>
+	<key>. Would you like to sync another folder?</key>
+	<string>.
+	
+Would you like to sync another folder?</string>
+	<key>Sync Another Folder</key>
+	<string>Sync Another Folder</string>
+	<key>MacDropAny Update Available</key>
+	<string>MacDropAny Update Available</string>
+	<key>Update Available Message</key>
+	<string>An update for MacDropAny is available for download. Would you like to open the download page so that you can update?</string>
+	<key>Skip this version</key>
+	<string>Skip this version</string>
+	<key>Later</key>
+	<string>Later</string>
+	<key>Open Download Page</key>
+	<string>Open Download Page</string>
+	<key>Donate Title</key>
+	<string>Are you able to make a contribution to a young developer?</string>
+	<key>Donate Message</key>
+	<string>I love making apps for you to use, but they do take quite a lot of time and effort to build and maintain. I first created MacDropAny back in January of 2011, when I was 13 years old. Since then, it's been used over 160,000 times by people all around the world. I've spent hundreds of hours keeping it up to date and helping users.
+
+MacDropAny has always been free, and I am committed to keeping it that way, but this is only sustainable for me if enough users make donations.
+
+If you can spare it, I'd be very thankful if you donated some money to help keep my servers online!
+
+Thanks,
+Sebastian (15 year old developer of MacDropAny)</string>
+	<key>Don't ask me again</key>
+	<string>Don't ask me again</string>
+	<key>Maybe later</key>
+	<string>Maybe later</string>
+	<key>Donate Now</key>
+	<string>Donate Now</string>
+	
+	<key>MacDropAny: Error Number </key>
+	<string>MacDropAny: Error Number </string>
+
+	<key>If this error persists please contact the developer.</key>
+	<string>If this error persists please contact the developer.</string>
+
+	<key>Contact Developer</key>
+	<string>Contact Developer</string>
+</dict>
+</plist>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+		<key>WelToMDA</key>
+	<string>Willkommen zu MacDropAny</string>
+
+	<key>WelToMDAmess</key>
+	<string>MacDropAny ist die einfachste Lösung, einen beliebigen Ordner auf Ihrem Mac mit der Cloud synchronisiert. Zur Nutzung dieses Programmes müssen Sie den Bedingungen der Zibity Software Lizenz zustimmen.</string>
+
+	<key>View Licence</key>
+	<string>Zeige Lizenz an</string>
+ 
+	<key>Quit</key>
+	<string>Beenden</string>
+ 
+	<key>I Accept</key>
+	<string>Ich akzeptiere</string>
+ 
+	<key>Input Selection Error</key>
+	<string>MacDropAny: Input Selection Error</string>
+ 
+	<key>Input Selection Error Message</key>
+	<string>Das selektierte Objekt ist offensichtlich kein Ordner. MacDropAny kann nur Ordner synchronisieren - nicht einzelne Dateien. 
+	
+	Bitte wählen Sie im nächsten Dialog einen Ordner aus.</string>
+ 
+	<key>Choose folder cloud</key>
+	<string>Wählen Sie einen Ordner aus, der mit der Cloud synchronisiert werden soll:</string>
+ 
+	<key>Choose service</key>
+	<string>Mit welchem Service möchten Sie den Ordner synchronisieren </string>
+ 
+	<key>MacDropAny: Syncing with iClouDrive</key>
+	<string>MacDropAny: Synchronisieren mit iClouDrive</string>
+ 
+	<key>Syncing with iClouDrive Message</key>
+	<string>Apple bietet in Mac OS X standardmäßig keine Methode an, beliebige Dateien mit iCloud zu synchronisieren. iClouDrive, eine Applikation von Zibity (dem Entwickler von MacDropAny), erlaubt Ihnen, Ihren iCloud Speicherplatz in einer ähnlichen Art wie die anderen Online Speicherdienste zu nutzen
+	
+Um iClouDrive mit MacDropAny zu nutzen müssen Sie iCloudDrive herunterladen und installieren. Das scheint bisher nicht der Fall zu sein.</string>
+ 
+	<key>Learn more about iClouDrive</key>
+	<string>Finden Sie mehr über iClouDrive heraus</string>
+ 
+	<key>Choose where in your </key>
+	<string>Bitte wählen Sie, wo </string>
+ 
+	<key> you'd like the </key>
+	<string> den </string>
+ 
+	<key> folder to be located: You may choose the top folder of your </key>
+	<string> Ordner ablegen soll.
+Sie können den obersten Ordner der </string>
+ 
+	<key> folder if you wish.</key>
+	<string> auswählen wenn Sie möchten.</string>
+ 
+	<key>Enter a name for the </key>
+	<string>Geben Sie einen Namen an, unter dem </string>
+ 
+	<key> copy of the folder </key>
+	<string> einen Link anlegt auf den Originalordner namens </string>
+ 
+	<key>Cancel</key>
+	<string>Abbruch</string>
+ 
+	<key>Sync </key>
+	<string>Synchronisiere </string>
+ 
+	<key> with </key>
+	<string> mit </string>
+ 
+	<key>MacDropAny: Folder Name Error</key>
+	<string>MacDropAny: Folder Name Error</string>
+ 
+	<key>A folder called </key>
+	<string>Ein Ordner namens </string>
+ 
+	<key> already exists. Please try another name.</key>
+	<string> existiert bereits. Bitte wählen Sie einen anderen Namen.</string>
+ 
+	<key>Folder Sync Success</key>
+	<string>MacDropAny: Folder Sync Success</string>
+ 
+	<key>The folder </key>
+	<string>Der Ordner </string>
+ 
+	<key> folder is now synced with </key>
+	<string> ist nun synchronisiert mit </string>
+ 
+	<key>. Would you like to sync another folder?</key>
+	<string>.
+	
+Möchten Sie einen weiteren Ordner synchronisieren?</string>
+ 
+	<key>Sync Another Folder</key>
+	<string>Synchronisiere einen anderen Ordner</string>
+ 
+	<key>MacDropAny Update Available</key>
+	<string>MacDropAny Update verfügbar</string>
+ 
+	<key>Update Available Message</key>
+	<string>Ein Update für MacDropAny ist verfügbar und kann heruntergeladen werden. Möchten Sie die Download Seite öffnen um den Download zu starten?</string>
+ 
+	<key>Skip this version</key>
+	<string>Überspringe diese Version</string>
+ 
+	<key>Later</key>
+	<string>Später</string>
+ 
+	<key>Open Download Page</key>
+	<string>Öffne Download Seite</string>
+ 
+	<key>Donate Title</key>
+	<string>Sind Sie in der Lage und Willens, einen jungen Entwickler zu unterstützen?</string>
+ 
+	<key>Donate Message</key>
+	<string>Ich liebe es, Applikationen zu entwickeln und Ihnen zur Nutzung zur Verfügung zu stellen. Aber das braucht eine Menge Zeit und Aufwand. Die erste Version von MacDropAny habe ich im Januar 2011 entwickelt - als ich 13 Jahre alt war. Seit dem ist MacDropAny von über 160.000 Persionen aus der ganzen Welt verwendet worden. Ich habe hunderte von Stunden damit verbracht, die Applikation weiterzuentwickeln und den Nutzern zu helfen.
+	
+MacDropAny wird immer frei verwendbar sein, aber das ist für mich nur wirklich machbar wenn genug Nutzer mich unterstützen.
+	
+Wenn Sie mir ein wenig Geld spenden können helfen Sie mir, meine Onlinekosten zu decken!
+
+Vielen Dank,
+Sebastian (15 Jahre alt, Entwickler von MacDropAny)</string>
+ 
+	<key>Don't ask me again</key>
+	<string>Nicht nochmal fragen</string>
+ 
+	<key>Maybe later</key>
+	<string>Vielleicht später</string>
+ 
+	<key>Donate Now</key>
+	<string>Ja, ich will spenden</string>
+ 
+	<key>MacDropAny: Error Number </key>
+	<string>MacDropAny: Fehler Nummer </string>
+
+	<key>If this error persists please contact the developer.</key>
+	<string>Wenn dieser Fehler auftritt wenden Sie sich bitte an den Entwickler.</string>
+
+	<key>Contact Developer</key>
+	<string>Kontakt Entwickler</string>
+</dict>
+</plist>
+
+</dict>
+</plist>

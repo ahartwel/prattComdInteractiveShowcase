@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+		<key>WelToMDA</key>
+	<string>Welkom bij MacDropAny</string>
+
+	<key>WelToMDAmess</key>
+	<string>Met MacDropAny kunt u op een eenvoudige manier elke gewenste map op uw Mac synchroniseren met de wolk. Door deze software te gebruiken, verklaart u zich te te houden aan de voorwaarden van de Zibity Software Licentie.</string>
+
+	<key>View Licence</key>
+	<string>Bekijk licentie</string>
+ 
+	<key>Quit</key>
+	<string>Stoppen</string>
+ 
+	<key>I Accept</key>
+	<string>Ik ga akkoord</string>
+ 
+	<key>Input Selection Error</key>
+	<string>MacDropAny: Fout bij selecteren bron</string>
+ 
+	<key>Input Selection Error Message</key>
+	<string>Het item dat u probeert te synchroniseren lijkt geen map te zijn. MacDropAny kan alleen mappen synchroniseren, geen individuele bestanden.
+	
+Kies in het volgende scherm de map die u wilt synchroniseren.</string>
+ 
+	<key>Choose folder cloud</key>
+	<string>Kies een map om te synchroniseren:</string>
+ 
+	<key>Choose service</key>
+	<string>Kies de service waarmee u de map wilt synchroniseren</string>
+ 
+	<key>MacDropAny: Syncing with iClouDrive</key>
+	<string>MacDropAny: Synchroniseer met iClouDrive</string>
+ 
+	<key>Syncing with iClouDrive Message</key>
+	<string>Het is niet mogelijk om uw eigen bestanden op te slaan in uw iCloud account. iClouDrive, een programma ontwikkeld door Zibity (de ontwikkelaar van MacDropAny), geeft u de mogelijkheid om uw iCloud opslagruimte te gebruiken zoals iedere andere Cloud opslagservice.
+	
+Om iClouDrive te gebruiken met MacDropAny, moet u iClouDrive gedownload en geïnstalleerd hebben. Het lijkt erop dat u dit nog niet gedaan heeft.</string>
+ 
+	<key>Learn more about iClouDrive</key>
+	<string>Lees meer over iClouDrive</string>
+ 
+	<key>Choose where in your </key>
+	<string>Kies waar in </string>
+ 
+	<key> you'd like the </key>
+	<string> u de </string>
+ 
+	<key> folder to be located: You may choose the top folder of your </key>
+	<string> map wilt plaatsen
+U kunt de hoofdmap van </string>
+ 
+	<key> folder if you wish.</key>
+	<string> selecteren als u wilt.</string>
+ 
+	<key>Enter a name for the </key>
+	<string>Voer een naam in voor de </string>
+ 
+	<key> copy of the folder </key>
+	<string> kopie van de map </string>
+ 
+	<key>Cancel</key>
+	<string>Annuleren</string>
+ 
+	<key>Sync </key>
+	<string>Synchroniseer </string>
+ 
+	<key> with </key>
+	<string> met </string>
+ 
+	<key>MacDropAny: Folder Name Error</key>
+	<string>MacDropAny: Mapnaam fout</string>
+ 
+	<key>A folder called </key>
+	<string>Een map genaamd </string>
+ 
+	<key> already exists. Please try another name.</key>
+	<string> Bestaat al. Probeer een andere naam.</string>
+ 
+	<key>Folder Sync Success</key>
+	<string>MacDropAny: Map synchroniseren geslaagd.</string>
+ 
+	<key>The folder </key>
+	<string>De map </string>
+ 
+	<key> folder is now synced with </key>
+	<string> is nu gesynchroniseerd met </string>
+ 
+	<key>. Would you like to sync another folder?</key>
+	<string>.
+Wilt u nog een map synchroniseren?</string>
+ 
+	<key>Sync Another Folder</key>
+	<string>Synchroniseer nog een map</string>
+ 
+	<key>MacDropAny Update Available</key>
+	<string>MacDropAny: Update Beschikbaar</string>
+ 
+	<key>Update Available Message</key>
+	<string>Een update voor MacDropAny is beschikbaar om te downloaden. Wilt u de download pagina openen zodat u kunt updaten?</string>
+ 
+	<key>Skip this version</key>
+	<string>Sla deze versie over</string>
+ 
+	<key>Later</key>
+	<string>Later</string>
+ 
+	<key>Open Download Page</key>
+	<string>Open de download pagina</string>
+ 
+	<key>Donate Title</key>
+	<string>Bent u in de gelegenheid een donatie te doen aan een jonge ontwikkelaar?</string>
+ 
+	<key>Donate Message</key>
+	<string>Ik houd ervan om programma's te maken die nuttig voor u zijn. Het maken en onderhouden van deze programma's kost echter veel tijd en moeite. Als eerste maakte ik MacDropAny in januari 2011. Ik was toen 13 jaar oud. Dit programma is sindsdien meer dan 160.000 keer gebruikt door mensen over de gehele wereld. Ik heb honderden uren gespendeerd om het programma up to date te houden en gebruikers te helpen.
+	
+MacDropAny is altijd gratis geweest. Dat wil ik graag zo houden, maar dat is alleen mogelijk met financiële ondersteuning van gebruikers.
+
+Ik stel het erg op prijs als u een kleine financiële bijdrage wilt leveren, zodat ik in ieder geval mijn servers in de lucht kan houden!
+
+Alvast bedankt,
+Sebastian (Ontwikkelaar van MacDropAny en 15 jaar oud)</string>
+ 
+	<key>Don't ask me again</key>
+	<string>Vraag me dit niet nog een keer</string>
+ 
+	<key>Maybe later</key>
+	<string>Misschien later</string>
+ 
+	<key>Donate Now</key>
+	<string>Doneer nu</string>
+ 
+	<key>MacDropAny: Error Number </key>
+	<string>MacDropAny: Foutnummer </string>
+
+	<key>If this error persists please contact the developer.</key>
+	<string>Als deze fout zich blijft voordoen, neem contact op met de ontwikkelaar.</string>
+
+	<key>Contact Developer</key>
+	<string>Contact opnemen met Developer</string>
+</dict>
+</plist>

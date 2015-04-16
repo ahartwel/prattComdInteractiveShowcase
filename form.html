@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+
+<style>
+
+    form#workSubmit {
+        width: 40%;
+    }
+
+    input {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    span {
+        display: block;
+    }
+
+</style>
+
+<body>
+
+
+<form id="workSubmit" method="post" enctype="multipart/form-data" action="/submit.php">
+    <input type="text" id="name" name="name" placeholder="Your Name"/>
+    <input type="text" id="major" name="major" placeholder="Major"/>
+    <input type="text" id="portfolio" name="portfolioWebsite" placeholder="Url to Portfolio Website"/>
+    <input type="text" id="title" name="title" placeholder="titleOfWork"/>
+    <span>Give us a description of your work.</span>
+    <textarea id="description" name="description" placeholder="write a description of your work"/>
+    </textarea>
+    <span>Upload the source files of your project in a zipped folder.</span>
+    <input type="file" id="siteFiles" name="siteFiles" accept=".zip"/>
+    <span>Upload preview images of your site as a zipped iamge.</span>
+    <input type="file" id="previewImages" name="sitePhotos" accept=".zip"/>
+    <span>Upload any files you want people to be able to download, such as epubs or application files.</span>
+    <input type="file" id="downloadableFiles" name="downloadFiles" accept=".zip"/>
+
+    <input type="submit"/>
+
+</form>
+
+
+
+
+</body>
+</html>
